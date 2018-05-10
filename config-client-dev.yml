@@ -1,4 +1,4 @@
 info:
-  profile: dev
-  from: git
-  password: 2222
+profile: dev
+from: git
+password: 2222
