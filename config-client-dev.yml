@@ -1,3 +1,4 @@
 info:
-profile: dev
-from: git
+  profile: dev
+  from: git
+  password: '{cipher}0e37503d637dda2d7422b9cb56c68cd5ebe1843bf0c7816928ccf5dd942d36d6'
